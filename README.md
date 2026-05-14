@@ -1,6 +1,6 @@
 **Skills & Technologies Demonstrated**
-React.js for building reusable and dynamic UI components
-JavaScript (ES6+) for modern asynchronous programming and application logic
+React.js for building reusable and dynamic UI components <br>
+JavaScript (ES6+) for modern asynchronous programming and application logic <br>
 Responsive Web Design for seamless usage across desktop and mobile devices
 State Management using React Hooks
 Component-Based Architecture for scalable and maintainable code
